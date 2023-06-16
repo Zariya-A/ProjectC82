@@ -27,7 +27,7 @@ export default class PostCard extends Component {
               </View>
             </View>
             <Image
-              source={require('../assets/posts.jpeg')}
+              source={require('../assets/post.jpeg')}
               style={styles.postImage}
             />
             <View style={styles.captionContainer}>
